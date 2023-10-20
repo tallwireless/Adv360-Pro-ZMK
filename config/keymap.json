@@ -3,8 +3,9 @@
   "keymap": "default",
   "layout": "LAYOUT",
   "layer_names": [
-    "base",
-    "keypad"
+    "qwerty",
+    "mod",
+    "dvorak"
   ],
   "layers": [
     [
