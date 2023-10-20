@@ -39,7 +39,7 @@
 
         default_layer {
             bindings = <
- &kp EQUAL            &kp N1     &kp N2      &kp N3     &kp N4  &kp N5                 &none                                                                                    &none  &kp N6  &kp N7    &kp N8    &kp N9    &kp N0      &kp MINUS
+ &kp EQUAL            &kp N1     &kp N2      &kp N3     &kp N4  &kp N5            &bt BT_CLR                                                                                    &none  &kp N6  &kp N7    &kp N8    &kp N9    &kp N0      &kp MINUS
    &kp TAB  &kp SINGLE_QUOTE  &kp COMMA  &kp PERIOD      &kp P   &kp Y                 &mo 1                                                                                    &mo 1   &kp F   &kp G     &kp C     &kp R     &kp L      &kp SLASH
  &kp LCTRL             &kp A      &kp O       &kp E      &kp U   &kp I            &kp ESCAPE  &kp RIGHT_COMMAND  &kp LEFT_ALT                   &kp LGUI  &kp RCTRL  &kp C_PLAY_PAUSE   &kp D   &kp H     &kp T     &kp N     &kp S  &kp BACKSLASH
  &kp LSHFT     &kp SEMICOLON      &kp Q       &kp J      &kp K   &kp X                                               &kp HOME                  &kp PG_UP                                &kp B   &kp M     &kp V     &kp Z  &kp FSLH      &kp RSHFT
